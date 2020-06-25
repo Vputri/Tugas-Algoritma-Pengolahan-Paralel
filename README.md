@@ -30,6 +30,7 @@ Sequential Search adalah teknik pencarian data dimana data dicari secara urut da
   Keterangan : Masukkan nama buah dan Masukkan Pilihan Anda berupa inputan. Dimana inputan Masukkan nama buah akan di cocokan dengan daftar nama buah yang ada di list jika nama buahnya ada dalam list maka outputnya adalah Nama buah ada di daftar nama buah namun jika tidak maka outputnya adalah Maaf, nama buah tidak ada di daftar nama buah. Dan untuk Masukkan Pilihan Anda jika menginput 'Y' maka akan mengulang program utamanya yaitu pencarian dengan output Masukkan nama buah namun jika selain itu maka akan keluar dari program.
 
 Sumber :
+
 https://www.jurnal.polgan.ac.id/
 
 https://scikit-image.org/
